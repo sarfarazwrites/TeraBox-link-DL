@@ -16,7 +16,7 @@ if (!token) {
 }
 
 const bot = new TelegramBot(token, { polling: true });
-const updatesChannel = '@Opleech_WD';
+const updatesChannel = '@prince_hackz';
 
 const app = express();
 const port = process.env.PORT || 3000;
